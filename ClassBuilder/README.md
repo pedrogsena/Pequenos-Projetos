@@ -11,7 +11,7 @@ Por exemplo:
 * `bash ClassBuilder-Java.sh Teste String nome int numero double preco` cria um arquivo chamado `Teste.java`, que contém três atributos:
     * `nome`, do tipo `String`;
     * `numero`, do tipo `int`;
-    * e `preco`, do tipo `double`.
+    * e `preco`, do tipo `double`.  
 Além de um método construtor, métodos *get* e *set* para cada atributo, e um método *main*, este vazio.
 
 ## Changelog
