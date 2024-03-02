@@ -23,7 +23,7 @@ Além de um método construtor, métodos *get* e *set* para cada atributo, e um 
 **Autor:** Pedro Gabriel Sena Cardoso  
 **Versão:** 0.1.0
 
-Script em Bash, de nome `ClassBuilder-Java-Interactive` que dialoga com o usuário enquanto constrói o arquivo da classe. Lida com classes abstratas, herança e interfaces.
+Script em Bash, de nome `ClassBuilder-Java-Interactive.sh` que dialoga com o usuário enquanto constrói o arquivo da classe. Lida com classes abstratas, herança e interfaces.
 
 ## Changelog
 
